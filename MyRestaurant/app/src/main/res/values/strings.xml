@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MyRestaurant</string>
+    <string name="app_menu">Conoce nuestro menu</string>
+    <string name="app_sede">Visita nuestras sedes</string>
+    <string name="app_reserva">Reserva tu mesa</string>
+
+    //entradas
+
+    <string name="entrada1">Sopas</string>
+    <string name="entrada2">Ceviche de Chicharron</string>
+    <string name="entrada3">Patacones</string>
+
+    <string name="ing_entrada1">Sancocho, Consome, Frijoles</string>
+    <string name="ing_entrada2">Grande, Pequeño</string>
+    <string name="ing_entrada3">Hogao, Guacamole</string>
+
+    <string name="prec_entrada1">10</string>
+    <string name="prec_entrada2">12</string>
+    <string name="prec_entrada3">8</string>
+
+    //bebidas
+
+    <string name="bebida1">Jugos</string>
+    <string name="bebida2">Gaseosas</string>
+    <string name="bebida3">Sodas</string>
+
+    <string name="ing_bebida1">Lulo, Mango, Fresa</string>
+    <string name="ing_bebida2">Productos CocaCola</string>
+    <string name="ing_bebida3">Sandia, Piña</string>
+
+    <string name="prec_bebida1">10</string>
+    <string name="prec_bebida2">10</string>
+    <string name="prec_bebida3">10</string>
+
+    //platos fuertes
+
+    <string name="platofuerte1">Carne</string>
+    <string name="platofuerte2">Hamburguesa</string>
+    <string name="platofuerte3">Pastas</string>
+
+    <string name="ing_platofuerte1">Punta de anca, Cerdo</string>
+    <string name="ing_platofuerte2">Grande, Pequeña</string>
+    <string name="ing_platofuerte3">Carbonara, Lasagna</string>
+
+    <string name="prec_platofuerte1">20</string>
+    <string name="prec_platofuerte2">20</string>
+    <string name="prec_platofuerte3">20</string>
+
+    //postres
+
+    <string name="postre1">Genovesa</string>
+    <string name="postre2">Pastel</string>
+    <string name="postre3">Helado</string>
+
+    <string name="ing_postre1">Genovesa</string>
+    <string name="ing_postre2">Oreo, Chocolate</string>
+    <string name="ing_postre3">Vainilla, Pistacho</string>
+
+    <string name="prec_postre1">12</string>
+    <string name="prec_postre2">12</string>
+    <string name="prec_postre3">12</string>
+
+
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
